@@ -1,4 +1,4 @@
-yfinance
+yfinance API
 pandas
 numpy
 matplotlib
